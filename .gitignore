@@ -1,0 +1,9 @@
+*/target/**
+*/project/**
+*/.idea/**
+.git/**
+.idea/**
+.idea/*.*
+out/**
+*/**/*.iml
+*.iml
